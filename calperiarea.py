@@ -1,0 +1,32 @@
+import math
+class Formula:
+    def perimeter(self):
+        pass
+    def area(self):
+        pass
+class Rectangle(Formula):
+    def perimeter(self,l,b):
+        return 2(l+b)
+    def area(self,l,b):
+        return l*b
+class Circle(Formula):
+    def perimeter(self,r):
+        return 2*3.14*r
+    def area(self,r):
+        return 3.14*r*r
+class Triangle(Formula):
+    def perimeter(self,a,b,c):
+        return a+b+c
+    def area(self,a,b,c):
+        s=int(a+b+c)
+        return math.sqrt(s(s-a)*(s-b)*(s-c))
+
+x=Rectangle()
+y=Circle()
+z=Triangle()
+x.perimeter(10,20)
+x.area(10,30)
+y.perimeter(5)
+y.area(5)
+z.perimeter(5,6,7)
+z.area(5,6,7)
