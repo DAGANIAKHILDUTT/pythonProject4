@@ -2,48 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="324882d7-55b0-4150-a22e-31e00e2794b4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/PycharmProjects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pytest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Random.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../calender.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../calperiarea.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dattime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mathlib123.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonPFSD/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonPFSD/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonPFSD/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonPFSD/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonPFSD/.idea/pythonPFSD.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonPFSD/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonPFSD/Excercise2Akanksha.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonPFSD/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonPFSD/week1_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonPFSD/week1_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonPFSD2/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/pythonProject1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject1/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject3/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sample2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../single3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../single4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../single5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonPFSD/.idea/pythonPFSD.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonPFSD/.idea/pythonPFSD.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonPFSD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonPFSD/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,13 +22,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/HP/PycharmProjects/pythonPFSD"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/PycharmProjects/pythonPFSD&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject2" />
